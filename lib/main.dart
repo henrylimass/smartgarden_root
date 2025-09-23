@@ -4,7 +4,8 @@ import 'firebase_options.dart';
 import 'Containers/Welcome/welcome_screen.dart';
 import 'Containers/login/loginscreen.dart';
 import 'Containers/cadastro/SignupScreen.dart';
-import 'Containers/HOME/HomeScreen.dart';
+//import 'Containers/HOME/HomeScreen.dart';
+import 'Containers/HOME/RootScreen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -30,8 +31,10 @@ class MyApp extends StatelessWidget {
         '/welcome': (_) => const WelcomeScreen(),
         '/login': (_) => const LoginScreen(),
         '/signup': (_) => SignupScreen(),
-        '/home': (_) => const HomeScreen(),
+        '/home': (_) => const RootScreen(),
       },
     );
   }
 }
+
+
