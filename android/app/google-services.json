@@ -1,22 +1,21 @@
 {
   "project_info": {
-    "project_number": "833531454485",
-    "firebase_url": "https://smart-garden-4e64d-default-rtdb.firebaseio.com",
-    "project_id": "smart-garden-4e64d",
-    "storage_bucket": "smart-garden-4e64d.firebasestorage.app"
+    "project_number": "639049589407",
+    "project_id": "smartgarden-d85ce",
+    "storage_bucket": "smartgarden-d85ce.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:833531454485:android:5bfc3ca8983bee7c925a1c",
+        "mobilesdk_app_id": "1:639049589407:android:fbd33762f822b7975af8aa",
         "android_client_info": {
-          "package_name": "com.app.smartgarden"
+          "package_name": "Smart.Garden1"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAj3McAUpqUaf-FGP_ZrtmDOs1u5_M5QzA"
+          "current_key": "AIzaSyCKj_hW82LixwiczRnKfqDE-eQDR6IWXVc"
         }
       ],
       "services": {
@@ -27,26 +26,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:833531454485:android:7cf0899361615e63925a1c",
-        "android_client_info": {
-          "package_name": "com.example.smartgarden"
-        }
-      },
-      "oauth_client": [],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAj3McAUpqUaf-FGP_ZrtmDOs1u5_M5QzA"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": []
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:833531454485:android:7f3cb2ada0403ed9925a1c",
+        "mobilesdk_app_id": "1:639049589407:android:d80048c30e51a4865af8aa",
         "android_client_info": {
           "package_name": "com.example.smartgarden_root"
         }
@@ -54,7 +34,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAj3McAUpqUaf-FGP_ZrtmDOs1u5_M5QzA"
+          "current_key": "AIzaSyCKj_hW82LixwiczRnKfqDE-eQDR6IWXVc"
         }
       ],
       "services": {
